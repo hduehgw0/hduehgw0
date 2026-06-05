@@ -1,23 +1,26 @@
 # Hi there, I'm Kohei Nishiwaki 👋
 
-## About Me
+## 👤 About Me
 
-神奈川大学経済学部経済学科2年生のソフトウェアエンジニア志望の学生です。計量経済学の授業でプログラミングに触れたことをきっかけに、Webエンジニアの道を志し、独学で学習を進めています。
+神奈川大学経済学部の3年生です（現在、エンジニアリングの学習に専念するため休学中）。
+計量経済学の授業でデータ処理に触れたことをきっかけにプログラミングの面白さに気づき、Webエンジニアを志しています。
 
-I'm a second-year student at Kanagawa University, majoring in Economics, aspiring to become a software engineer. I started learning programming through an econometrics class and have been self-studying web development with great enthusiasm.
+現在は休学期間を活用し、フロントエンドからバックエンド、インフラまで体系的な技術習得にフルタイムで取り組んでいます。個人でのキャッチアップに加え、チーム開発の実戦経験を積むためハッカソンにも積極的に挑戦しています。
+
+I'm a 3rd-year Economics student at Kanagawa University, currently taking a gap year to fully dedicate myself to studying software engineering. My passion for programming began in an econometrics class, and since then, I have been actively learning full-stack web development. I value not only individual technical skills but also teamwork and problem-solving in collaborative environments.
 
 ## 🔥 Current Focus
 
-- **Backend Development**: Ruby on Rails を使った個人ブログアプリケーション開発中
-- **Frontend Development**: React, Next.js, TypeScript を使ったモダンなフロントエンド開発
-- **Infrastructure**: Docker を使ったコンテナ化と CI/CD パイプラインの構築
-- **Team Development**: プログラミングサークル「WINC」で実践的な案件に取り組み中
+- **Backend Development**: Railsを用いたWebアプリケーションの裏側の仕組み（データベース連携やルーティングなど）の基礎固め。今後は実務を見据え、新たな言語やバックエンド技術にも積極的に挑戦していく予定です。
+- **Infrastructure**: Dockerを用いたコンテナ環境の構築。
+- **Frontend Development**: React, Next.js, TypeScript を活用したモダンなUI開発。
 
 ## 💻 Tech Stack
 
-### Backend
+### Backend & Infrastructure
 ![Ruby](https://img.shields.io/badge/-Ruby-CC342D?style=flat-square&logo=ruby&logoColor=white)
 ![Rails](https://img.shields.io/badge/-Rails-CC0000?style=flat-square&logo=ruby-on-rails&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 
 ### Frontend
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
@@ -26,43 +29,20 @@ I'm a second-year student at Kanagawa University, majoring in Economics, aspirin
 ![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-06B6D4?style=flat-square&logo=tailwind-css&logoColor=white)
 
-### Infrastructure & Tools
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+### Tools
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)
 
-## 📚 Learning Journey
-
-### 完走した主な学習コース
-- Railsチュートリアル (完走)
-- React18対応 モダンJavaScriptの基礎から始める挫折しないためのReact入門
-- Reactに入門した人のためのもっとReactが楽しくなるステップアップコース完全版
-- Next.js入門 - ReactフレームワークのNext.jsでマイクロブログを構築
-- Next.js 13 - 最新バージョンのNext.jsによるブログ開発
-- 理解して使う!Docker入門＋応用
-
-### 学習の特徴
-「圧倒的熱量」をもって、バックエンド・フロントエンド・インフラの全体像を体系的に学習しています。単なるチュートリアルの写経に留まらず、学んだ知識を応用した個人開発プロジェクトにも取り組んでいます。
-
 ## 🚀 Featured Projects
 
-### [Rails Blog Application 3](https://github.com/hduehgw0/rails_blog_application3)
-Railsチュートリアルで学んだ知識を応用した、実践的なブログアプリケーション開発プロジェクト。CRUD機能、認証機能などを実装予定。
+### 🏆 [花粉症言い訳ジェネレーター (Frontend)](https://github.com/toriaezu-yattemitai/excuse-by-pollen-front)
+**技育CAMPハッカソン サポーターズ賞 受賞作品**
+初対面の学生5人による即席チームで開発したWebアプリケーションです。Next.jsを用いたフロントエンドの実装を担当しつつ、チームの進行管理や意見集約など、プロダクトを期間内に完成させるためのファシリテーションにも注力しました。
 
-### [Cat Hotwire Tutorial](https://github.com/hduehgw0/cat-hotwire-tutorial)
-Rails 7の新機能Hotwireを学習するためのプロジェクト。Turbo、Stimulusを活用したモダンなRailsアプリケーション開発を実践。
+## 📚 Learning Approach
 
-### [Next.js 13 + TailwindCSS Blog](https://github.com/hduehgw0/next.js13-tailwindcss-udemy-blog2)
-Next.js 13のApp RouterとTailwindCSSを使用したブログアプリケーション。SSG/SSR/ISRの使い分けを学習。
-
-### [Docker Simple CI/CD Demo](https://github.com/hduehgw0/docker-simple-cicd-demo)
-Dockerを使用したCI/CDパイプラインのデモプロジェクト。GitHub Actionsを使った自動テスト・ビルド・デプロイを実装。
-
-## 🎯 Goals
-
-- 実務レベルのWeb開発スキルを習得し、開発インターンとして貢献できるエンジニアになること
-- コードレビューやフィードバックを通じて、継続的に成長すること
-- チーム開発を通じて、実践的な開発経験を積むこと
+「技術のブラックボックスをなくす」ことを意識して学習を進めています。
+単に動くコードを書く（教材を写経する）だけでなく、エラーが発生した際は公式ドキュメントに立ち返り、「なぜ動くのか」「裏側でどのような処理が行われているのか」を理解しながら実装に落とし込むプロセスを大切にしています。
 
 ## 📫 How to Reach Me
 
@@ -72,7 +52,3 @@ Dockerを使用したCI/CDパイプラインのデモプロジェクト。GitHub
 ## 📊 GitHub Stats
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=hduehgw0&show_icons=true&theme=default)
-
----
-
-💡 **"継続的にコードを書き、学び続けることで、必ず成長できる"** という信念のもと、日々学習に取り組んでいます。
