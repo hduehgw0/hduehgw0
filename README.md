@@ -48,4 +48,4 @@ I'm a 3rd-year Economics student at Kanagawa University, currently taking a gap 
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=hduehgw0&show_icons=true&theme=default)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=hduehgw0&show_icons=true&theme=default&hide_rank=true&hide=stars)
