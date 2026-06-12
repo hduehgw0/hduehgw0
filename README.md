@@ -11,7 +11,6 @@ I'm a 3rd-year Economics student at Kanagawa University, currently taking a gap 
 
 ## 🔥 Current Focus
 
-- **Backend Development**: Railsを用いたWebアプリケーションの裏側の仕組み（データベース連携やルーティングなど）の基礎固め。今後は実務を見据え、新たな言語やバックエンド技術にも積極的に挑戦していく予定です。
 - **Infrastructure**: Dockerを用いたコンテナ環境の構築。
 - **Frontend Development**: React, Next.js, TypeScript を活用したモダンなUI開発。
 
