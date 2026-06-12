@@ -17,9 +17,7 @@ I'm a 3rd-year Economics student at Kanagawa University, currently taking a gap 
 
 ## 💻 Tech Stack
 
-### Backend & Infrastructure
-![Ruby](https://img.shields.io/badge/-Ruby-CC342D?style=flat-square&logo=ruby&logoColor=white)
-![Rails](https://img.shields.io/badge/-Rails-CC0000?style=flat-square&logo=ruby-on-rails&logoColor=white)
+### Infrastructure
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 
 ### Frontend
